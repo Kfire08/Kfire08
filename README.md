@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kfire08
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me, Email: Akashkatiyar08@gmail.com
 
