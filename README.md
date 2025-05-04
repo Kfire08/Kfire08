@@ -29,13 +29,6 @@ With **3 years and 7 months** of experience in software engineering — includin
 - 📧 Email: [Akashkatiyar08@gmail.com](mailto:Akashkatiyar08@gmail.com)
 - 💼 Open to collaborating on web and software development projects
 
----
-
-### 📊 GitHub Stats
-
-![Kfire08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kfire08&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kfire08&layout=compact&theme=radical)
-
 
 <!---
 Kfire08/Kfire08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
